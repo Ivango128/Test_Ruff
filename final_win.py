@@ -24,4 +24,6 @@ class FinalWin(QWidget):
         # старт:
         self.show()
 
+print('art of war 3')
+
 

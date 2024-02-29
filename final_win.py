@@ -23,5 +23,6 @@ class FinalWin(QWidget):
         
         # старт:
         self.show()
+print("zxc")
 
 

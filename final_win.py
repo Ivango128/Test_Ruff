@@ -25,3 +25,4 @@ class FinalWin(QWidget):
         self.show()
 
 
+print('Hello World!!')
